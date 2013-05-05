@@ -1,0 +1,6 @@
+/Net-Wikipedia-Pornstar-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
